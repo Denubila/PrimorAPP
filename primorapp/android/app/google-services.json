@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "240142847204",
+    "project_id": "primorapp-9dc7a",
+    "storage_bucket": "primorapp-9dc7a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240142847204:android:0bb8901fa6a0f91f7870f1",
+        "android_client_info": {
+          "package_name": "com.primorosa.primorApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfvrBXixzLiZQrKhBTGdpiOLL0dTYUZ1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
